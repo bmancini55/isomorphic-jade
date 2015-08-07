@@ -1,0 +1,20 @@
+{
+  "name": "isomorphic-jade",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Mancini <bmancini@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jade": "~1.11.0"
+  }
+}
